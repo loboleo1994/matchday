@@ -57,3 +57,5 @@ footer{padding:40px 20px 60px;color:var(--muted);font-size:14px;border-top:1px s
   nav a[href="#screens"],nav a[href="#features"]{display:none}
 }
 .band-icon{width:76px;height:76px;display:block;margin:0 auto 14px}
+.btn.alt{background:transparent;color:var(--text);border:2px solid var(--green-d);box-shadow:none}
+.btn.alt:hover{border-color:var(--green)}
