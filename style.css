@@ -18,3 +18,7 @@ h3{margin-top:28px;font-size:18px}
 .card b{color:var(--green)}
 footer{padding:40px 20px 60px;color:var(--muted);font-size:14px;border-top:1px solid var(--line);margin-top:48px}
 .updated{color:var(--muted);font-size:14px}
+.cta{display:flex;flex-wrap:wrap;align-items:center;gap:14px;margin:24px 0 0}
+.btn{background:var(--green);color:#06210f;font-weight:700;text-decoration:none;padding:12px 22px;border-radius:12px}
+.btn:hover{filter:brightness(1.1)}
+.soon{color:var(--muted);font-size:15px}
